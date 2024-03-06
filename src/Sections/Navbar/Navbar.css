@@ -14,5 +14,6 @@
   display: flex;
   color: rgb(179, 179, 180);
   font-size: 23px;
-  padding-left: 4rem;
+  padding-left: 3rem;
+  font-family: Orbitron;
 }
