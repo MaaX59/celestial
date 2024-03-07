@@ -7,7 +7,7 @@ const Header = () => {
       <div className="app_header-presentation">
         <div className="app_header-presentation-movie"></div>
         <div className="app_header-presentation-text">
-          Your Home <br /> Among The Stars
+          Your New Home <br /> Among The Stars
         </div>
       </div>
       <div className="app_header_options">

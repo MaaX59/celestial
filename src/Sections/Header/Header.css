@@ -2,6 +2,7 @@
   display: flex;
   height: 800px;
   width: 100%;
+  background: black;
 }
 .app_header-presentation {
   position: relative;
@@ -20,7 +21,7 @@
 }
 .app_header-presentation-text {
   position: absolute;
-  z-index: 10;
+
   font-family: Orbitron;
   font-size: 40px;
   left: 50%;
@@ -40,6 +41,6 @@
   background-color: rgb(94, 33, 150);
   cursor: pointer;
 }
-.app_header_options-single:hover {
-  box-shadow: 5px black;
-}
+/* .app_header_options-single:hover {
+  box-shadow: 5px 5px 5px 5px black;
+} */
