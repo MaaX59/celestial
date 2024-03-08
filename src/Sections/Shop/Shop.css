@@ -2,4 +2,39 @@
   height: 800px;
   width: 100%;
   background-color: rgb(112, 28, 28);
+  position: relative;
+}
+.app_shop img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.app_shop_container {
+  position: absolute;
+  width: 380px;
+  height: 200px;
+  top: 24%;
+  left: 7%;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: self-start;
+}
+.app_shop_title {
+  font-size: 32px;
+  margin-bottom: 5px;
+  font-weight: 500;
+  font-family: Orbitron;
+}
+.app_shop_text {
+  font-size: 22px;
+  margin-bottom: 9px;
+  font-family: Arial, Helvetica;
+}
+.app_shop_container_button {
+  height: 50px;
+  width: 140px;
+  background: none;
+  font-size: 20px;
 }
