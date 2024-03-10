@@ -51,6 +51,7 @@
   background: none;
   font-size: 20px;
   border: 0.5px solid;
+  cursor: pointer;
   margin: 3rem;
 }
 .each-slide-effect {

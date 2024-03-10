@@ -21,8 +21,8 @@ const Rooms = () => {
     },
     {
       image: room3,
-      title: "Venus Shuttle",
-      text: "Spend two weeks in luxary making a full orbit of Venus. ",
+      title: "Black Hole Shuttle",
+      text: "Spend 72 hours making a safe orbit around a black hole. ",
     },
     {
       image: room4,
