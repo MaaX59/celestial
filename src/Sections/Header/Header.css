@@ -1,6 +1,6 @@
 .app-header {
   display: flex;
-  height: 800px;
+  height: 80vh;
   width: 100%;
   background: black;
 }
@@ -8,12 +8,12 @@
   position: relative;
 
   text-align: center;
-  height: 650px;
+  height: 75vh;
   width: 100%;
 }
 .app_header-presentation-movie {
   position: absolute;
-  height: 650px;
+  height: 75vh;
   width: 100%;
   right: 50%;
   top: 50%;
@@ -27,11 +27,11 @@
 }
 .app_header-presentation-text {
   position: absolute;
-  color: rgb(182, 182, 182);
+  color: rgb(201, 170, 129);
   font-family: Orbitron;
   font-size: 40px;
   left: 50%;
-  top: 50%;
+  top: 45%;
   transform: translate(-50%, -50%);
 }
 .app_header_options {
@@ -45,10 +45,27 @@
 }
 .app_header_options-single {
   width: 300px;
-  height: 200px;
-  border-radius: 5px;
-  background-color: rgb(94, 33, 150);
+  height: 250px;
+  border-radius: 10px;
   cursor: pointer;
+  flex-direction: column;
+  display: flex;
+}
+
+.app_header_options-single img {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  animation-duration: 2s;
+  animation-name: slide;
+  animation-iteration-count: 1;
+}
+.app_header_options-single span {
+  text-align: center;
+  color: rgb(202, 202, 202);
+  font-family: Orbitron;
+  font-size: 18px;
+  margin-top: 4px;
 }
 
 @keyframes slide {
