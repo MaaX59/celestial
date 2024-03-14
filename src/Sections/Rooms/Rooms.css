@@ -6,7 +6,7 @@
 }
 .app_rooms_title {
   font-family: Orbitron;
-  color: whitesmoke;
+  color: rgb(201, 152, 89);
   font-size: 33px;
   text-align: center;
   margin: 10rem 0 5rem 0;
@@ -33,7 +33,7 @@
   font-size: 28px;
   background: none;
   font-family: Orbitron;
-  color: whitesmoke;
+  color: rgb(201, 152, 89);
 }
 .room-text {
   padding: 3rem;
@@ -47,7 +47,7 @@
 .slider-button {
   height: 70px;
   width: 170px;
-  color: aliceblue;
+  color: rgb(201, 152, 89);
   background: none;
   font-size: 20px;
   border: 0.5px solid;

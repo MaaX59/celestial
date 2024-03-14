@@ -13,7 +13,7 @@
   position: absolute;
   width: 380px;
   height: 200px;
-  top: 24%;
+  top: 17%;
   left: 7%;
   border-radius: 8px;
   display: flex;
@@ -26,6 +26,7 @@
   margin-bottom: 5px;
   font-weight: 500;
   font-family: Orbitron;
+  color: rgb(201, 152, 89);
 }
 .app_shop_text {
   font-size: 22px;
@@ -37,4 +38,5 @@
   width: 140px;
   background: none;
   font-size: 20px;
+  border-color: rgb(201, 152, 89);
 }
