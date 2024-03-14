@@ -31,7 +31,7 @@ const Rooms = () => {
     },
   ];
   return (
-    <div className="app_rooms" id="rooms">
+    <div className="app_rooms" id="destinations">
       <div className="app_rooms_title"> Choose Your Destination</div>
       <div className="app_rooms_content">
         <Slide>
