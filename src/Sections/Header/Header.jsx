@@ -1,11 +1,15 @@
 import React from "react";
 import "./Header.css";
+import backgroundVideo from "../../video/stars-in-space-background.mp4";
 
 const Header = () => {
   return (
     <div className="app_header">
       <div className="app_header-presentation">
-        <div className="app_header-presentation-movie"></div>
+        <video autoPlay muted loop id="video">
+          <source src={backgroundVideo} type="video/mp4" />
+        </video>
+
         <div className="app_header-presentation-text">
           Your New Home <br /> Among The Stars
         </div>

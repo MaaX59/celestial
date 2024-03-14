@@ -8,7 +8,8 @@ import Contact from "./Sections/Contact/Contact.jsx";
 function App() {
   return (
     <div className="App">
-      <Navbar /> <Header /> <Subheading /> <Shop /> <Rooms /> <Contact />
+      <Navbar /> <Header /> <Subheading /> <Rooms />
+      <Shop /> <Contact />
     </div>
   );
 }
