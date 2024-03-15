@@ -13,3 +13,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.title {
+  font-size: 40px;
+  font-weight: 400;
+  font-family: Orbitron;
+  color: rgb(201, 152, 89);
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.text {
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  color: antiquewhite;
+}

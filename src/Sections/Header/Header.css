@@ -60,8 +60,8 @@
   animation-name: slide;
   animation-iteration-count: 1;
   border: none;
-  box-shadow: rgb(201, 152, 89) 0px 2px 1px 1px,
-    rgb(201, 152, 89) 2px 2px 2px 1px, rgb(106, 105, 105) 0px 0px 0px 1px inset;
+  box-shadow: rgb(116, 116, 116) 2px 2px 1px 0px,
+    rgb(109, 109, 109) 2px 2px 2px 0px, rgb(106, 105, 105) 0px 0px 0px 0px inset;
 }
 .app_header_options-single span {
   text-align: center;
