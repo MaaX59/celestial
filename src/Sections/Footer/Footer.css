@@ -1,0 +1,9 @@
+.app_footer {
+  height: 100px;
+}
+.app_footer_title {
+  color: antiquewhite;
+  font-size: 20px;
+  font-family: Orbitron;
+  margin: 2rem;
+}

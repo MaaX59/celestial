@@ -6,6 +6,7 @@ import Shop from "./Sections/Shop/Shop.jsx";
 import Rooms from "./Sections/Rooms/Rooms.jsx";
 import Contact from "./Sections/Contact/Contact.jsx";
 import About from "./Sections/About/About.jsx";
+import Footer from "./Sections/Footer/Footer.jsx";
 function App() {
   return (
     <div className="App">
@@ -16,6 +17,7 @@ function App() {
       <Rooms />
       <Shop />
       <Contact />
+      <Footer />
     </div>
   );
 }
