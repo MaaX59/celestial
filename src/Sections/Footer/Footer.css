@@ -1,9 +1,18 @@
 .app_footer {
-  height: 100px;
-}
-.app_footer_title {
+  height: 130px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   color: antiquewhite;
+}
+.app_footer hr {
+  width: 80%;
+  border-top: 1px solid rgb(87, 87, 87);
+  margin-bottom: 14px;
+}
+.app_footer_rights {
+  display: flex;
   font-size: 20px;
-  font-family: Orbitron;
-  margin: 2rem;
 }

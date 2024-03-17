@@ -1,7 +1,5 @@
 import React from "react";
 import "./About.css";
-import rocket from "../../pics/rocket.png";
-import market from "../../pics/market.png";
 
 const About = () => {
   return (
@@ -20,22 +18,20 @@ const About = () => {
             throughout the world. All the while, evolving our services and
             continually refining each element of the Celestial experience.
           </div>
-          {/* <img src={rocket} alt="Rocket Icon" /> */}
         </div>
         <div className="app_about_content_div">
           <div className="app_about_content_div_title">Preformance</div>
           <div className="app_about_content_div_text">
             Our ships are simply the beginning. The perfect vessel for the
             perfect experience. Expertly engineered and designed, our selection
-            of industry-leading spacecraft brings all corners of the solar
-            system within reach.
+            of custom-made spacecrafts brings all corners of the galaxy within
+            reach.
           </div>
-          {/* <img src={market} alt="marketing icon" /> */}
         </div>
         <div className="app_about_content_div">
           <div className="app_about_content_div_title">Experience</div>
           <div className="app_about_content_div_text">
-            Luxury is more than an idea, it’s a feeling.
+            Luxury is more than an idea, it’s a feeling, and an experience.
             <br /> All our ships are all-inclusive and feature 24-hour butler
             service to every suite to ensure your stay with us will be
             unforgettable.
