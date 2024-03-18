@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/celestial/static/css/main.ddfd8885.css",
-    "main.js": "/celestial/static/js/main.41bd15dc.js",
+    "main.css": "/celestial/static/css/main.a1c1f2a5.css",
+    "main.js": "/celestial/static/js/main.5f8fcbdb.js",
     "static/js/453.f626c857.chunk.js": "/celestial/static/js/453.f626c857.chunk.js",
     "static/media/background-stars.jpg": "/celestial/static/media/background-stars.c09ac6dc44308069724a.jpg",
     "static/media/conferance.jpg": "/celestial/static/media/conferance.0aa03c91fa96f0748860.jpg",
@@ -13,12 +13,12 @@
     "static/media/room3.jpg": "/celestial/static/media/room3.bd39d5e09626ba6d9b3f.jpg",
     "static/media/ship4.jpg": "/celestial/static/media/ship4.9267eccefb32df0af9b8.jpg",
     "index.html": "/celestial/index.html",
-    "main.ddfd8885.css.map": "/celestial/static/css/main.ddfd8885.css.map",
-    "main.41bd15dc.js.map": "/celestial/static/js/main.41bd15dc.js.map",
+    "main.a1c1f2a5.css.map": "/celestial/static/css/main.a1c1f2a5.css.map",
+    "main.5f8fcbdb.js.map": "/celestial/static/js/main.5f8fcbdb.js.map",
     "453.f626c857.chunk.js.map": "/celestial/static/js/453.f626c857.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddfd8885.css",
-    "static/js/main.41bd15dc.js"
+    "static/css/main.a1c1f2a5.css",
+    "static/js/main.5f8fcbdb.js"
   ]
 }
