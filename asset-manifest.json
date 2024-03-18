@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf9d1fc1.css",
+    "main.js": "/static/js/main.e9ec4949.js",
+    "static/js/453.f626c857.chunk.js": "/static/js/453.f626c857.chunk.js",
+    "static/media/background-stars.jpg": "/static/media/background-stars.c09ac6dc44308069724a.jpg",
+    "static/media/conferance.jpg": "/static/media/conferance.0aa03c91fa96f0748860.jpg",
+    "static/media/spacestation.jpg": "/static/media/spacestation.f9ba69565680017d12e9.jpg",
+    "static/media/ship2.jpg": "/static/media/ship2.184aa5aa1d65757b81dd.jpg",
+    "static/media/First-room.jpg": "/static/media/First-room.219b4058483909991f2f.jpg",
+    "static/media/city.jpg": "/static/media/city.1902fb95adf4748fd884.jpg",
+    "static/media/room4.jpg": "/static/media/room4.75a8fd0f7a83cc4fc3aa.jpg",
+    "static/media/room3.jpg": "/static/media/room3.bd39d5e09626ba6d9b3f.jpg",
+    "static/media/ship4.jpg": "/static/media/ship4.9267eccefb32df0af9b8.jpg",
+    "index.html": "/index.html",
+    "main.cf9d1fc1.css.map": "/static/css/main.cf9d1fc1.css.map",
+    "main.e9ec4949.js.map": "/static/js/main.e9ec4949.js.map",
+    "453.f626c857.chunk.js.map": "/static/js/453.f626c857.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf9d1fc1.css",
+    "static/js/main.e9ec4949.js"
+  ]
+}
