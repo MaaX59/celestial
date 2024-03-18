@@ -4,12 +4,7 @@ import "./About.css";
 const About = () => {
   return (
     <div className="app_about" id="about">
-      <div className="app_about_intro">
-        <div className="app_about_title title">Celestial Inn</div>
-        <div className="app_about_text text">
-          Who we are, what we do, and why we do it.
-        </div>
-      </div>
+      <div className="app_about_intro"></div>
       <div className="app_about_content">
         <div className="app_about_content_div">
           <div className="app_about_content_div_title">Origin</div>
@@ -36,7 +31,6 @@ const About = () => {
             service to every suite to ensure your stay with us will be
             unforgettable.
           </div>
-          {/* <img src={rocket} alt="Png File - Free Rocket Icon@pngkey.com" /> */}
         </div>
       </div>
     </div>

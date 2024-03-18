@@ -1,16 +1,11 @@
 .app_about {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   flex-direction: column;
   width: 100%;
-  height: 450px;
-  margin-top: 2rem;
-  background: linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 1) 87%,
-    rgb(151, 129, 0) 95%,
-    rgba(0, 0, 0, 1) 99%
-  );
+  height: 250px;
+  margin-top: 1rem;
 }
 .app_about_title {
   margin-top: 7rem;
