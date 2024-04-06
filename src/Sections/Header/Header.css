@@ -29,7 +29,8 @@
   position: absolute;
   color: rgb(201, 152, 89);
   font-family: Orbitron;
-  font-size: 48px;
+  font-size: 68px;
+  font-weight: 400;
   left: 50%;
   top: 45%;
   transform: translate(-50%, -50%);
